@@ -1,0 +1,8 @@
+body {
+  background: url(/client/images/nodejs-5.jpg) no-repeat center center fixed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
